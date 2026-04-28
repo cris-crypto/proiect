@@ -1,0 +1,1 @@
+https://student-team-aelce6z7.atlassian.net/jira/software/projects/LIC/list?jql=project+%3D+LIC+ORDER+BY+priority+ASC%2C+cf%5B10019%5D+ASC&atlOrigin=eyJpIjoiYzJlMzMyOTBhY2I5NDhlYzk0ZGU5YzA4ZDg1OTRkYWIiLCJwIjoiaiJ9
